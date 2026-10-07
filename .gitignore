@@ -1,0 +1,29 @@
+# Build output
+bin/
+obj/
+
+# Local deploy/package output
+deploy/
+release/
+*.zip
+*.7z
+*.rar
+
+# Logs and crash dumps
+logs/
+*.log
+*.dmp
+
+# User/editor files
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.tmp
+*.bak
+
+# OS metadata
+Thumbs.db
+Desktop.ini
+.DS_Store

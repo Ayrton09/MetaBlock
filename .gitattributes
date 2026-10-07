@@ -1,0 +1,6 @@
+# Normalize line endings to LF for text files (servers run on Linux)
+* text=auto eol=lf
+
+*.dll binary
+*.pdb binary
+*.zip binary
